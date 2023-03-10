@@ -1,0 +1,5 @@
+1,Manolo,Gimenez,manolito@gmail.com,4
+2,Francisca,Lombarda,francisca@gmail.com,3
+3,Joan,Laporta,joan@gmail.com,1
+4,Ernesto,Fernandez,ernesto@gmail.com,5
+5,Antonia,Murcia,antonia@gmail.com,2

@@ -1,0 +1,5 @@
+1,Informatica,123456790
+2,Numeros,9876545671
+3,Lengua,7654323432
+4,Sociales,6583970326
+5,Naturales,9820351628
